@@ -7,4 +7,3 @@ Development repository. Active integration branch: `test_load`.
 
 [**Architecture, translations and contact**](docs/showcase/README.md)
 
-![micro workflow](docs/showcase/overview.svg)
