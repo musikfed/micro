@@ -41,7 +41,7 @@ Robotica e controllo vocale. **micro** — Micro development → Voice assistant
 
 ## Contact / Контакты
 
-[Telegram @Feudorlab1](https://t.me/Feudorlab1) · [Phone +7 926 041 1145](tel:+79260411145)
+[Telegram @Feudorlab1](https://t.me/Feudorlab1)
 
 [feudor.lab@yandex.ru](mailto:feudor.lab@yandex.ru) · [obzorniky@gmail.com](mailto:obzorniky@gmail.com) · [peginelab.ru](https://peginelab.ru/)
 
