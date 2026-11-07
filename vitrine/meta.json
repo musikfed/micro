@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "id": "micro",
+  "title": "micro",
+  "version": "—",
+  "description": "voice helper",
+  "subtitle": null,
+  "tags": [
+    "Git"
+  ],
+  "visibility": "public",
+  "publication": "publish_on_merge",
+  "public_private_approved": false,
+  "display_mode": "interface",
+  "status": "Черновик — ожидает проверки",
+  "repo_url": "https://github.com/musikfed/micro",
+  "screenshots": [
+    "https://raw.githubusercontent.com/musikfed/micro/main/docs/showcase/overview.svg"
+  ],
+  "cover": "vitrine/generated/cover.svg",
+  "cover_type": "schematic-not-screenshot"
+}
